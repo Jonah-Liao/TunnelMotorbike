@@ -18,7 +18,8 @@
 				"E:/Data/GithubData/TunnelMotorbike/TunnelMotorbike/Content/Core/Utilities/BP_Pawn.uasset",
 				"E:/Data/GithubData/TunnelMotorbike/TunnelMotorbike/Content/Core/CombatSystem/BP_PlayerBullet.uasset",
 				"E:/Data/GithubData/TunnelMotorbike/TunnelMotorbike/Content/Core/Terrain/BP_TerrainUnit.uasset",
-				"E:/Data/GithubData/TunnelMotorbike/TunnelMotorbike/Content/Asset/Model/SM_ContinnousBullet.uasset"
+				"E:/Data/GithubData/TunnelMotorbike/TunnelMotorbike/Content/Asset/Model/SM_ContinnousBullet.uasset",
+				"E:/Data/GithubData/TunnelMotorbike/TunnelMotorbike/Content/Map/L_Equipment.umap"
 			]
 		}
 	]
